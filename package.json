@@ -8,7 +8,7 @@
   "dependencies": {
     "express": "3.x",
     "async": "0.1.x",
-    "mongoose": "2.x",
+    "mongoose": "3.x",
     "stylus": "0.28.x",
     "jade": "0.26.x",
     "backbone": "0.9.x",
